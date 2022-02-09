@@ -14,4 +14,4 @@ Tenant : GSK Production
 Period : Last 6 months
 Sample size - Top 3000 nodes based on Revenue
 Granularity - Daily, node inventory
-![image](https://user-images.githubusercontent.com/72233116/153102700-15f96605-dbf4-4903-a6af-2544edcf446d.png)
+
